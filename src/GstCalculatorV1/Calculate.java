@@ -16,5 +16,12 @@ public class Calculate {
     public double generateBill() {
         return (foodTotal+furnitureTotal);
     }
+
+    public void trythis() {
+        if( "Welcome".trim() == "Welcome".trim() )
+            System.out.println("Equal");
+        else
+            System.out.println("Not Equal");
+    }
 }
 

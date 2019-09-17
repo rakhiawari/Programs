@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86dbdcae-4160-4d1e-8bef-68f302350d11" name="Default Changelist" comment="" />
+    <list default="true" id="86dbdcae-4160-4d1e-8bef-68f302350d11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Calculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GstCalculatorV1/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GstCalculatorV1/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GstCalculatorV1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GstCalculatorV1/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OmCj3SPACs2SeKmmHgHIGRtoNx" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignments" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -33,13 +45,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="LibrarianService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LibraryManagement.LibrarianService" />
+  <component name="RunManager" selected="Application.AStack">
+    <configuration name="ACursor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.collection.ACursor" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LibraryManagement.*" />
+          <option name="PATTERN" value="training.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.collection.AStack" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Working" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LibraryManagement.Working" />
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.fibonacci" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LibraryManagement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assigned.main" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assigned.*" />
+          <option name="PATTERN" value="javaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AStack" />
+        <item itemvalue="Application.ACursor" />
+        <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Working" />
-        <item itemvalue="Application.LibrarianService" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -121,5 +133,18 @@
       <updated>1564573516978</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

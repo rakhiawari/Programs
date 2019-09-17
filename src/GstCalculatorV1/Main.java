@@ -21,7 +21,7 @@ public class Main {
                     billAmount = calculate.generateBill();
                     System.out.println("Bill Amount: " + billAmount);
                     break;
-                case 3:
+                case 3:calculate.trythis();
                     break;
                 default:
                     System.out.println("Enter valid choice.");
