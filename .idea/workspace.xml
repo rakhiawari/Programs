@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86dbdcae-4160-4d1e-8bef-68f302350d11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/PalindromInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/removeDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Calculate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/GstCalculatorV1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GstCalculatorV1/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GstCalculatorV1/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GstCalculatorV1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GstCalculatorV1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javaprograms/fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaprograms/fibonacci.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +37,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -45,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AStack">
-    <configuration name="ACursor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.collection.ACursor" />
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.ArmstrongNumber" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.collection.*" />
+          <option name="PATTERN" value="javaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.collection.AStack" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.Factorial" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.collection.*" />
+          <option name="PATTERN" value="javaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GstCalculatorV1.Main" />
+    <configuration name="PalindromInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.PalindromInteger" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GstCalculatorV1.*" />
+          <option name="PATTERN" value="javaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GstCalculator.Main" />
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.PalindromeString" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GstCalculator.*" />
+          <option name="PATTERN" value="javaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprograms.fibonacci" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprograms.ReverseString" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AStack" />
-        <item itemvalue="Application.ACursor" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.PalindromInteger" />
+        <item itemvalue="Application.PalindromeString" />
       </list>
     </recent_temporary>
   </component>
