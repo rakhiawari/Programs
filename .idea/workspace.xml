@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86dbdcae-4160-4d1e-8bef-68f302350d11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Try.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaprograms/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaprograms/removeDuplicates.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.removeDuplicates">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprograms.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.Demo8">
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Demo4" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprograms.*" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprograms.Factorial" />
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Demo5" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprograms.*" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprograms.PalindromInteger" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Demo6" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprograms.*" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprograms.ReverseString" />
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Demo7" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprograms.*" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprograms.removeDuplicates" />
+    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Demo8" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprograms.*" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.removeDuplicates" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.PalindromInteger" />
+        <item itemvalue="Application.Demo8" />
+        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo4" />
       </list>
     </recent_temporary>
   </component>
@@ -146,5 +154,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo/Demo2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo/Demo2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo/Demo2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
