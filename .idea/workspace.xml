@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86dbdcae-4160-4d1e-8bef-68f302350d11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Demo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/multiplevalues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +29,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Demo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -53,20 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo8">
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Demo4" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Working">
     <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.Demo5" />
       <module name="JavaProjects" />
@@ -119,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Working" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibraryManagement.Working" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LibraryManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Working" />
         <item itemvalue="Application.Demo8" />
         <item itemvalue="Application.Demo7" />
         <item itemvalue="Application.Demo6" />
         <item itemvalue="Application.Demo5" />
-        <item itemvalue="Application.Demo4" />
       </list>
     </recent_temporary>
   </component>
